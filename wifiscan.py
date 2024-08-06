@@ -53,7 +53,7 @@ def analyze_network_security(ssid, encryption_type):
        else:
            print("FUCK YOUR NETWORK")
            print("FUCK YOUR NETWORK")
-       # You can add more checks for specific vulnerabilities here
+    
    except Exception as e:
        print(f"Error: {e}")
  
