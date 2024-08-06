@@ -1,1 +1,3 @@
-# wifiscan11
+pip install subprocess 
+
+FUCK UR NETWORK
