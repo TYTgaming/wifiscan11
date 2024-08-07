@@ -1,3 +1,1 @@
-pip install subprocess 
-
-FUCK UR NETWORK
+ENJOY IT:D
